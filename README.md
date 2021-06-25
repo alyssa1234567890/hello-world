@@ -1,2 +1,6 @@
 # hello-world
-Just another repository 
+
+Hi humans!
+
+Hubot here! I just had pizza! Wow this is so awesome
+What am I saying?
